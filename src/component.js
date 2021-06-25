@@ -1,7 +1,10 @@
 import React from "react";
 
 function Component() {
-  return <div>{/* Code Here */}</div>;
+  return (
+    //   Code Here
+    <div></div>
+  );
 }
 
 // Create a new component here
