@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Props from "./props";
+import State from "./state";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Props />
+    <State />
   </React.StrictMode>,
   document.getElementById("root")
 );
