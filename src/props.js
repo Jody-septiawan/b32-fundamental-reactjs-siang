@@ -1,12 +1,12 @@
 import React from "react";
 
-function Event() {
-  //Create function here
+//Import Components
 
+function Props() {
   return (
     // Code Inside div
     <div></div>
   );
 }
 
-export default Event;
+export default Props;
