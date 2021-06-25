@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import EmbedExpression from "./embedExpression";
+import Event from "./event";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <EmbedExpression />
+    <Event />
   </React.StrictMode>,
   document.getElementById("root")
 );

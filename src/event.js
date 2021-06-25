@@ -1,9 +1,7 @@
 import React from "react";
 
-function EmbedExpression() {
+function Event() {
   //Create function here
-
-  //Create a variable here
 
   return (
     // Code Inside div
@@ -11,4 +9,4 @@ function EmbedExpression() {
   );
 }
 
-export default EmbedExpression;
+export default Event;
