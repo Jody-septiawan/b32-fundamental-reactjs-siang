@@ -1,1 +1,12 @@
-// Code Here
+// Class Component
+// Function Component
+
+function Header() {
+  return (
+    <div>
+      <h1>This is Header</h1>
+    </div>
+  );
+}
+
+export default Header;
